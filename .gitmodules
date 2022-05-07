@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/aoaristova/aoaristova.github.io.git
+	branch = main
