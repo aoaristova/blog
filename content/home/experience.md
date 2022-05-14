@@ -25,7 +25,7 @@ experience:
   - title: Studying. Creating a website.
     company: RUDN University
     company_url: 'https://eng.rudn.ru/'
-    company_logo: Znak_RUDN
+    company_logo: rudn
     location: Moscow
     date_start: '2022-04-18'
     date_end: ''
